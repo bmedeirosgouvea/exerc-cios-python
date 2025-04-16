@@ -1,4 +1,4 @@
-# 📘 Exercícios de Python no Google Colab
+# 📘 Exercícios de Python
 
 Este repositório contém uma coleção de exercícios realizados em Python no ambiente Google Colab. Os exercícios abrangem desde fundamentos da linguagem até manipulação de listas, strings, estruturas condicionais, loops e funções matemáticas.
 
